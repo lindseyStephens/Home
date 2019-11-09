@@ -1,0 +1,84 @@
+body {
+    background-color: #BDBDBD;
+}
+
+.jumbotron {
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/319/190/501/carbon-fiber-minimalism-gray-black-background-dark-hd-wallpaper-d940e86d612a8ddb0607786f3061f6fd.jpg");
+    text-align: center;
+}
+
+.jumbotron h1 {
+    color: #EF5350;
+    font-family: 'Bungee Inline', cursive;
+}
+
+.jumbotron .lead {
+    color: #BDBDBD;
+    font-family: 'Muli', cursive;
+}
+
+.jumbotron .open {
+    color: #BDBDBD;
+    font-family: 'Coming Soon', cursive;
+    padding-bottom: 25px;
+}
+
+.jumbotron .btn-grey {
+    background-color: #BDBDBD;
+    color: #212121;
+}
+
+.jumbotron .btn-grey:hover {
+    background-color: #EF5350;
+    color: #BDBDBD;
+}
+
+h1, h5 {
+    color: #212121;
+    font-family: 'Coming Soon', cursive;
+    padding:  0 0 25px 0;
+    text-align: center;
+}
+
+#js {
+    color: #212121;
+}
+
+#react {
+    color:  #03A5CF;
+}
+
+#amazon {
+    color:  #FE9900;
+}
+
+.card {
+    color: #212121;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    font-family: 'Muli', cursive;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+.btn-danger a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.btn-outline {
+    background-color: #EF5350;
+}
+
+.btn-outline:hover {
+    background-color: #c62828;
+}
+
+.btn-outline a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
